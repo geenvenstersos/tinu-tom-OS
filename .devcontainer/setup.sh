@@ -15,7 +15,9 @@ apt-get install -y \
   ca-certificates \
   groff \
   less \
-	docker
+	docker \
+  cmake \
+  qemu-kvm qemu virt-manager virt-viewer libvirt-bin
 
 
 echo "Installing oh-my-zsh"
