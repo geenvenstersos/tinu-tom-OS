@@ -10,7 +10,9 @@
         "mhutchie.git-graph",
         "vscode-icons-team.vscode-icons",
         "visualstudioexptteam.vscodeintellicode",
-        "yzhang.markdown-all-in-one"
+        "yzhang.markdown-all-in-one",
+        "ms-vscode.cmake-tools",
+        "ms-vscode.cpptools"
     ],
     "forwardPorts": [5000, 5001, 7071],
     "dockerFile": "Dockerfile",

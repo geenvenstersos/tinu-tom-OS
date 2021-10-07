@@ -5,6 +5,7 @@ echo ">>>> >>>> >>>> >>>> ENTERING SETUP.SH <<<< <<<< <<<< <<<< "
 ## update and install some things we should probably have
 apt-get update
 apt-get install -y \
+  build-essential \
   curl \
   apt-utils \
   git \
