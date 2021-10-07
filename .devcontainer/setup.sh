@@ -6,6 +6,7 @@ echo ">>>> >>>> >>>> >>>> ENTERING SETUP.SH <<<< <<<< <<<< <<<< "
 apt-get update
 apt-get install -y \
   build-essential \
+  nasm \
   curl \
   apt-utils \
   git \
