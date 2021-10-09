@@ -6,8 +6,8 @@ alias ....="cd ../../.."
 alias .....="cd ../../../.."
 
 
-alias gitcm="git checkout master"
-alias gitfpm="git fetch && git pull origin master"
+alias gitcm="git checkout main"
+alias gitfpm="git fetch && git pull origin main"
 alias gits="git status"
 alias gitd="git diff"
 alias gitlp="git log --pretty=oneline"
