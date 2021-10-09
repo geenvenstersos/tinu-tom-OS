@@ -1,0 +1,15 @@
+# ALIASES AND USEFUL STUFF
+
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+
+
+alias gitcm="git checkout master"
+alias gitfpm="git fetch && git pull origin master"
+alias gits="git status"
+alias gitd="git diff"
+alias gitlp="git log --pretty=oneline"
+
+alias tailf="tail -n 100 -f"
